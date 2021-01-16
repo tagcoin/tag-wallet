@@ -1,19 +1,7 @@
-# MetaMask Browser Extension
+# TAG Browser Extension
 
-Hey! We are hiring JavaScript Engineers! Apply here: https://boards.greenhouse.io/consensys/jobs/2572388
----
 
-You can find the latest version of MetaMask on [our official website](https://metamask.io/). For help using MetaMask, visit our [User Support Site](https://metamask.zendesk.com/hc/en-us).
-
-For [general questions](https://metamask.zendesk.com/hc/en-us/community/topics/360000682532-General), [feature requests](https://metamask.zendesk.com/hc/en-us/community/topics/360000682552-Feature-Requests-Ideas), or [developer questions](https://metamask.zendesk.com/hc/en-us/community/topics/360001751291-Developer-Questions), visit our [Community Forum](https://metamask.zendesk.com/hc/en-us/community/topics).
-
-MetaMask supports Firefox, Google Chrome, and Chromium-based browsers. We recommend using the latest available browser version.
-
-For up to the minute news, follow our [Twitter](https://twitter.com/metamask_io) or [Medium](https://medium.com/metamask) pages.
-
-To learn how to develop MetaMask-compatible applications, visit our [Developer Docs](https://metamask.github.io/metamask-docs/).
-
-To learn how to contribute to the MetaMask project itself, visit our [Internal Docs](https://github.com/MetaMask/metamask-extension/tree/develop/docs).
+TAG Wallet supports Firefox, Google Chrome, and Chromium-based browsers. We recommend using the latest available browser version.
 
 ## Building locally
 
